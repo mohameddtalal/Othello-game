@@ -1,0 +1,1 @@
+The Othello game, written in Python, allows two players to compete on an 8x8 board. Players take turns placing discs, with the goal of capturing the opponent's discs by trapping them between two of their own. The game features a user-friendly interface, valid move detection, and automatic score updates, making it easy to enjoy and track progress.
